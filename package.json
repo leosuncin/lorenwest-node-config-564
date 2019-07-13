@@ -1,0 +1,19 @@
+{
+  "name": "lorenwest-node-config-564",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jaime Leonardo Suncin Cruz <leosuncin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "3.2.0",
+    "toml": "3.0.0"
+  },
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Default config 1`] = `
+Config {
+  "app": Object {
+    "port": 1337,
+    "secret": "secret",
+  },
+  "cors": Object {
+    "credentials": true,
+    "origin": "http://localhost:1337",
+  },
+}
+`;

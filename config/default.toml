@@ -1,0 +1,7 @@
+[app]
+secret = "secret"
+port = 1337
+
+[cors]
+origin = "http://localhost:1337"
+credentials = true
